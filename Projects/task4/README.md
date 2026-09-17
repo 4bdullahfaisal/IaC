@@ -9,16 +9,12 @@
 
 TASK 4: Mini Project - Automated Infrastructure as Code & Orchestration
 
-## Exact Task Requirement
-
-The original Task 4 question is:
-
 ```text
 TASK 4: Mini Project - Automated Infrastructure as Code & Orchestration
 Architecture
-○ Objective: Provision and orchestrate an elastic, highly available microservices
+Objective: Provision and orchestrate an elastic, highly available microservices
 cluster environment.
-○ Requirements: Map cloud network resources programmatically using declarative
+Requirements: Map cloud network resources programmatically using declarative
 Infrastructure as Code tools (Terraform or CloudFormation) to spin up isolated
 networks. Deploy your containerized application stack across a Kubernetes
 (EKS/GKE/Minikube) cluster setup, configuring persistent volume claims, Ingress
